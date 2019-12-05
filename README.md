@@ -8,3 +8,6 @@ https://www.aclweb.org/anthology/P18-2014.pdf
 TACRED Relation extraction dataset
 https://nlp.stanford.edu/projects/tacred/#access
 
+# Inspirations
+Visual relations graph tool:
+http://semanticparsing.ukp.informatik.tu-darmstadt.de:5000/relation-extraction/static/index.html
