@@ -11,3 +11,5 @@ https://nlp.stanford.edu/projects/tacred/#access
 # Inspirations
 Visual relations graph tool:
 http://semanticparsing.ukp.informatik.tu-darmstadt.de:5000/relation-extraction/static/index.html
+
+https://medium.com/southpigalle/simple-relation-extraction-with-a-bi-lstm-model-part-1-682b670d5e11
