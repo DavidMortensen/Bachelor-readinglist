@@ -8,6 +8,9 @@ https://www.aclweb.org/anthology/P18-2014.pdf
 TACRED Relation extraction dataset
 https://nlp.stanford.edu/projects/tacred/#access
 
+++ State of the at paper on Tacred dataset:
+https://arxiv.org/pdf/1906.03158v1.pdf
+
 Datasets commonly used with state of the art models:
 https://paperswithcode.com/task/relation-extraction
 
