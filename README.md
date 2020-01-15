@@ -21,6 +21,11 @@ KP37 (Lenght 15k, random new relations, open source)
 https://github.com/zhangdongxu/kbp37/blob/master/train.txt
 https://arxiv.org/abs/1508.01006 PDF citation.
 
+SemEval 8, 2010:
+PDF: https://www.aclweb.org/anthology/S10-1006.pdf
+https://drive.google.com/file/d/0B_jQiLugGTAkMDQ5ZjZiMTUtMzQ1Yy00YWNmLWJlZDYtOWY1ZDMwY2U4YjFk/view?sort=name&layout=list&num=50
+
+
 # Inspirations
 Visual relations graph tool:
 http://semanticparsing.ukp.informatik.tu-darmstadt.de:5000/relation-extraction/static/index.html
