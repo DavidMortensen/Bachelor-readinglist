@@ -17,6 +17,10 @@ https://arxiv.org/pdf/1906.03158v1.pdf
 Datasets commonly used with state of the art models:
 https://paperswithcode.com/task/relation-extraction
 
+KP37 (Lenght 15k, random new relations, open source)
+https://github.com/zhangdongxu/kbp37/blob/master/train.txt
+https://arxiv.org/abs/1508.01006 PDF citation.
+
 # Inspirations
 Visual relations graph tool:
 http://semanticparsing.ukp.informatik.tu-darmstadt.de:5000/relation-extraction/static/index.html
